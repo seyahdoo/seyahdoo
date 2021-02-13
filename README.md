@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I’m a computer scientist & game developer from turkey.
-- I’m currently learning machine learning with fast.ai
 - I’ve been in game industry for 7 years
+- I’m currently learning machine learning with fast.ai
 
 <!--
 **seyahdoo/seyahdoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,13 +2,12 @@
 
 - I’m a computer scientist & game developer from turkey.
 - I’ve been in game industry for 7 years
-- I’m currently learning machine learning with fast.ai
 - I have a cummunity discord server, join in using the link below ^^
 
 [![][discord]][discordlink]
 
 
-[discord]: https://discordapp.com/api/guilds/836204552793358347/widget.png?style=banner2
+[discord]: https://discordapp.com/api/guilds/836204552793358347/widget.png?style=banner3
 [discordlink]: https://discord.gg/ZtDFmjXe7w
 
 

@@ -5,7 +5,12 @@
 - I’m currently learning machine learning with fast.ai
 - I have a cummunity discord server, join in using the link below ^^
 
-[https://discord.gg/CmksjnfbQZ](https://discord.gg/CmksjnfbQZ "Seyahdoo Community Discord Server")
+[![][discord]][discordlink]
+
+
+[discord]: https://discordapp.com/api/guilds/836204552793358347/widget.png?style=banner2
+[discordlink]: https://discord.gg/ZtDFmjXe7w
+
 
 <!--
 **seyahdoo/seyahdoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

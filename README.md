@@ -4,8 +4,6 @@
 - I’ve been in game industry for 10 years
 - I have a cummunity discord server, join in using the link below ^^
 
-[Go To My Personal Website](https://seyahdoo.com)
-
 [![][discord]][discordlink]
 
 

@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - I’m a computer scientist & game developer from turkey.
-- I’ve been in game industry for 7 years
+- I’ve been in game industry for 10 years
 - I have a cummunity discord server, join in using the link below ^^
+
+[Go To My Personal Website](https://seyahdoo.com)
 
 [![][discord]][discordlink]
 
